@@ -1,0 +1,17 @@
+div {
+    height: 50vh;
+    width: 50vw;
+    background-color: orange;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 4vw;
+    margin: 4px;
+    padding: 2px;
+}
+
+div.second {
+    height: 45vmax;
+    width: 90vmin;
+    background-color: lightgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 5.5vmax;
+}
